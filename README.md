@@ -13,6 +13,7 @@
   + Xem chi tiết sản phẩm
   + Chỉnh sửa giỏ hàng
   + Đặt hàng
+
 **- Trang quản trị:**
   + Đăng nhập
   + Thống kê doanh thu (Theo ngày/tháng, theo phương thức thanh toán)
