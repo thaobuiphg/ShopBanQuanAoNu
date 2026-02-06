@@ -1,4 +1,4 @@
-# ShopBanQuanAo
+# Shop bán quần áo nữ
 # Bài tập lớn môn: Thực tập cơ sở ngành
 ### Mục đích: Tạo ra website bán hàng cơ bản sử dụng Node.js và SQL Server
 ### Công nghệ sử dụng:
