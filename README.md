@@ -11,13 +11,12 @@
   + Đăng ký/Đăng nhập
   + Xem danh sách sản phẩm theo danh mục, bộ sưu tập
   + Xem chi tiết sản phẩm
-  + Chỉnh sửa giỏ hàng, lưu giỏ hàng theo phiên
+  + Chỉnh sửa giỏ hàng
   + Đặt hàng
-
 **- Trang quản trị:**
   + Đăng nhập
   + Thống kê doanh thu (Theo ngày/tháng, theo phương thức thanh toán)
-  + Bảo trì người dùng (CRUD)
-  + Bảo trì sản phẩm (CRUD)
-  + Bảo trì đơn hàng (CRUD)
-  + Bảo trì bộ sưu tập (CRUD)
+  + Quản lý người dùng (CRUD)
+  + Quản lý sản phẩm (CRUD)
+  + Quản lý đơn hàng (CRUD)
+  + Quản lý bộ sưu tập (CRUD)
