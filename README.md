@@ -21,7 +21,3 @@
   + Quản lý sản phẩm (CRUD)
   + Quản lý đơn hàng (CRUD)
   + Quản lý bộ sưu tập (CRUD)
-### Cách chạy project:
-1. Clone repo
-2. npm install
-3. npm start
